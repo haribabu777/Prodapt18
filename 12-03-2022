@@ -1,0 +1,8 @@
+public class Validation{
+
+public void Check() {
+
+     Syste.out.println("Succesfully Match the logic");
+    
+}
+}
